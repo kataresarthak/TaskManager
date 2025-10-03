@@ -35,7 +35,7 @@ Before running this project, make sure you have:
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/taskmanager.git
-cd what-next-guidance
+cd taskmanager
 ```
 
 ### 2. Install Dependencies
